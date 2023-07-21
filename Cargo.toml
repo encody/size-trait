@@ -1,0 +1,13 @@
+[package]
+authors = ["Jacob Lindahl <aviator9402@gmail.com>"]
+categories = ["no-std", "rust-patterns", "no-std::no-alloc", "memory-management"]
+description = "Traits for restricting the size of type parameters."
+documentation = "https://docs.rs/size-trait"
+edition = "2021"
+keywords = ["zst", "zero-sized-types", "sized", "traits", "no_std"]
+license-file = "LICENSE"
+name = "size-trait"
+repository = "https://github.com/encody/size-trait"
+version = "0.1.0"
+
+[dependencies]
